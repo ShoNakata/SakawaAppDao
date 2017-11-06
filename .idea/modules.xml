@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/NCMB_Sign_Up.iml" filepath="$PROJECT_DIR$/NCMB_Sign_Up.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OekakiApp.iml" filepath="$PROJECT_DIR$/OekakiApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OekakiApp-test_Oekaki.iml" filepath="$PROJECT_DIR$/OekakiApp-test_Oekaki.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+    </modules>
+  </component>
+</project>
